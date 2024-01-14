@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0aafdcf5.css","mappings":"AAAA,UACE,0BACF,CACA,aACE,4BACF,CAEA,iBACE,0BACF","sources":["styles/tableCell.css"],"sourcesContent":[".iconCell {\n  padding-left: 4px !important;\n}\n.iconSetCell {\n  padding-inline: 4px !important;\n}\n\n.cellNoILPadding {\n  padding-inline: 0px !important;\n}"],"names":[],"sourceRoot":""}
